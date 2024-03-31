@@ -4,7 +4,7 @@ This project contains code and notes for AI music video generation. Using my old
 
 ## Video Projects
 * [lucid-sonic-dreams](./lucid-sonic-dreams/)
-  * [drumwah](./lucid-sonic-dreams/drumwah/)
+  * [drumwah](./lucid-sonic-dreams/drumwah.py)
 
 
 ## Source / Attribution
