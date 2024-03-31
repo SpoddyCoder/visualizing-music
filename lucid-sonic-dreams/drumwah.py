@@ -12,7 +12,7 @@ L.hallucinate(file_name = '../../../ai-music-viz/song-renders/drumwah-cats.mp4',
              pulse_percussive = True, # If True while pulse_harmonic is False, pulse reacts to the audio's percussive elements.
              pulse_harmonic = False, # If True while pulse_percussive is False, pulse reacts to the audio's harmonic elements
 
-             motion_react = 0.42,
+             motion_react = 0.12,
              motion_percussive = False,
              motion_harmonic = True,
              motion_randomness = 0.12, # Between 0 and 1
