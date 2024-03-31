@@ -10,7 +10,7 @@ This project contains code and notes for AI music video generation. Using my old
 ## Source / Attribution
 List of projects used in these experiements.
 
-### StyleGan 2 & 3
+### StyleGan
 * https://github.com/NVlabs/stylegan2
 * https://github.com/NVlabs/stylegan3
 
