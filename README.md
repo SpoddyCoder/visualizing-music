@@ -28,6 +28,9 @@ List of projects used in these experiements.
 * Useful description of how LSD works
   * https://towardsdatascience.com/introducing-lucid-sonic-dreams-sync-gan-art-to-music-with-a-few-lines-of-python-code-b04f88722de1
 
+### Spleeter
+* https://github.com/deezer/spleeter
+
 ### ruDALL-E
 * TODO: https://github.com/ai-forever/ru-dalle
 
