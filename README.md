@@ -3,8 +3,9 @@ This project contains code and notes for AI music video generation. Using my old
 
 
 ## Video Projects
-* [lucid-sonic-dreams](./lucid-sonic-dreams/)
-  * [drumwah](./lucid-sonic-dreams/drumwah.py)
+* Drumwah
+  * https://www.youtube.com/watch?v=z8TY0dtIzLw
+  * [lucid-sonic-dreams](./lucid-sonic-dreams/)
 
 
 ## Source / Attribution
@@ -37,3 +38,8 @@ List of projects used in these experiements.
 ### Visual Loop Machine
 * TODO: https://github.com/goolygu/v_machine
 
+### Video Editor: DaVinci Resolve
+* https://www.blackmagicdesign.com/products/davinciresolve/
+
+### DAW: Reaper
+* https://www.reaper.fm/
