@@ -5,11 +5,12 @@ This project contains code and notes for AI music video generation. Using my old
 ## Video Projects
 * Drumwah
   * https://www.youtube.com/watch?v=z8TY0dtIzLw
+  * [Project notes](projects/drumwah/)
   * [lucid-sonic-dreams](./lucid-sonic-dreams/)
 
 
 ## Source / Attribution
-List of projects used in these experiements.
+List of projects used in these experiments.
 
 ### StyleGan
 * https://github.com/NVlabs/stylegan2
