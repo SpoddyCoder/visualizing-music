@@ -1,9 +1,9 @@
 from lucidsonicdreams import LucidSonicDream
 
 L = LucidSonicDream(song = '../../ai-music-viz/audio-source/drumwah.wav',
-                    style = '../../ai-music-viz/cached-pkls/stylegan2/cat.pkl')
+                    style = '../../ai-music-viz/cache/stylegan/cached-pkls/stylegan2/cat.pkl')
 
-L.hallucinate(file_name = '../../ai-music-viz/lsd-renders/drumwah-cats.mp4',
+L.hallucinate(file_name = '../../ai-music-viz/lsd-renders/drumwah/drumwah-cats.mp4',
              fps = 60, # Actual video FPS. Was: fps=self.sr/self.frame_duration. frame_dur=int(sr/fps - (sr/fps % 64)) (sr = sample rate)
              speed_fpm = 6,
              truncation = 0.3, # Between 0 and 1
