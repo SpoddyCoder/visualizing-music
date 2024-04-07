@@ -16,7 +16,7 @@ List of projects used in these experiments.
 * https://github.com/NVlabs/stylegan2
 * https://github.com/NVlabs/stylegan3
 
-#### Datasets
+#### Models + Datasets
 * https://github.com/justinpinkney/awesome-pretrained-stylegan2
 * https://github.com/edstoica/lucid_stylegan3_datasets_models
 
@@ -34,7 +34,8 @@ List of projects used in these experiments.
 * https://github.com/deezer/spleeter
 
 ### ruDALL-E
-* TODO: https://github.com/ai-forever/ru-dalle
+* https://github.com/ai-forever/ru-dalle
+* https://hive.blog/hive-158694/@dbddv01/making-your-own-model-for-ru-dalle-the-looking-glass-ai
 
 ### Visual Loop Machine
 * TODO: https://github.com/goolygu/v_machine
