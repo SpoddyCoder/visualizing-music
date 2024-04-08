@@ -40,6 +40,12 @@ List of projects used in these experiments.
 ### Visual Loop Machine
 * TODO: https://github.com/goolygu/v_machine
 
+### Stable Diffusion / ControlNet
+* TODO: https://github.com/AUTOMATIC1111/stable-diffusion-webui
+* TODO: https://github.com/Mikubill/sd-webui-controlnet
+* Interesting gateway idea: https://www.youtube.com/watch?v=W5hDKeQU8Y8
+  * https://civitai.com/models/21813/edge-of-realism
+
 ### Video Editor: DaVinci Resolve
 * https://www.blackmagicdesign.com/products/davinciresolve/
 
