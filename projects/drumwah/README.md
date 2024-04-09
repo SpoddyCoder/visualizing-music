@@ -27,5 +27,5 @@ cd ~/wsl-builds
 * [lsd generator code](../../lucid-sonic-dreams/drumwah.py)
 
 ### Audio + Video Editing
-* Audio DAW: Reaper
-* Video Editor: DaVinci Resolve
+* DAW: Reaper
+* NLE: DaVinci Resolve

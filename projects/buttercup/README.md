@@ -1,0 +1,63 @@
+# Buttercup, Special Llamas
+Originally recorded in our local practice room on an old 8 track back in 1998. The recorder used standard audio cassettes - which is not a lot of bandwidth to squeeze in the big sound of the Special Llamas!
+Audio decomposed into stems by Spleeter and re-mixed in Reaper.
+
+https://www.youtube.com/watch?v=a4JHBTHhb0w
+
+Song written, performed and recorded by Special Llamas, 1998
+Remastered by P. Fernihough, 2024
+
+
+## Environment & Tools
+
+### AI Visualization
+* Ubuntu22.04 running on WSL2:
+  * https://github.com/SpoddyCoder/wsl-builds
+* Using the WLS2 `resource-ai` build to install lucid-sonic-dreams & spleeter:
+
+```
+cd ~/wsl-builds
+./build.sh biscuit update,qol,x11,vscode
+./build.sh biscuit-ai conda,cuda124
+./build.sh resource-ai spleeter,lsd
+```
+
+* AI Model: StyleGAN2
+* Dataset: Modern Art
+* [lsd generator code (slow bits)](../../lucid-sonic-dreams/buttercup-slow.py)
+* [lsd generator code (fast bits)](../../lucid-sonic-dreams/buttercup-fast.py)
+
+### Audio + Video Editing
+* DAW: Reaper
+* NLE: DaVinci Resolve
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Special Llamas were:
+
+Mike Wilson
+Gene Davies
+Darren Sinnott
+Andrew Davies
+Paul Fernihough
+
+Song written by: Paul Fernihough, Mike Wilson
+
+Originally recorded on (a crap) 8 track in 1999. Remastered in 2024.
+
+Audio DAW: Reaper
+Video Editor: DaVinci Resolve
+AI Music Visualizer: lucid-sonic-dreams
+AI Model: StyleGAN2
+Dataset: Modern Art

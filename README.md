@@ -6,7 +6,9 @@ This project contains code and notes for AI music video generation. Using my old
 * Drumwah
   * https://www.youtube.com/watch?v=z8TY0dtIzLw
   * [Project notes](projects/drumwah/)
-  * [lucid-sonic-dreams](./lucid-sonic-dreams/)
+* Buttercup
+  * https://www.youtube.com/watch?v=a4JHBTHhb0w
+  * [Project notes](projects/buttercup/)
 
 
 ## Source / Attribution
