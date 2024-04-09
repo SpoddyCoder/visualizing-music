@@ -30,34 +30,3 @@ cd ~/wsl-builds
 ### Audio + Video Editing
 * DAW: Reaper
 * NLE: DaVinci Resolve
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-The Special Llamas were:
-
-Mike Wilson
-Gene Davies
-Darren Sinnott
-Andrew Davies
-Paul Fernihough
-
-Song written by: Paul Fernihough, Mike Wilson
-
-Originally recorded on (a crap) 8 track in 1999. Remastered in 2024.
-
-Audio DAW: Reaper
-Video Editor: DaVinci Resolve
-AI Music Visualizer: lucid-sonic-dreams
-AI Model: StyleGAN2
-Dataset: Modern Art
