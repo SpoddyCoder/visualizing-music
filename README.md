@@ -17,6 +17,7 @@ List of projects used in these experiments.
 ### StyleGan
 * https://github.com/NVlabs/stylegan2
 * https://github.com/NVlabs/stylegan3
+* https://github.com/PDillis/stylegan3-fun
 
 #### Models + Datasets
 * https://github.com/justinpinkney/awesome-pretrained-stylegan2
