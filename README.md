@@ -3,12 +3,12 @@ This project contains code and notes for AI music video generation. Using my old
 
 
 ## Video Projects
-* Drumwah
+* [Drumwah](projects/drumwah/)
   * https://www.youtube.com/watch?v=z8TY0dtIzLw
-  * [Project notes](projects/drumwah/)
-* Buttercup
+* [Buttercup](projects/buttercup/)
   * https://www.youtube.com/watch?v=a4JHBTHhb0w
-  * [Project notes](projects/buttercup/)
+* [Sergeant](projects/sergeant/)
+  * https://www.youtube.com/watch?v=QjFBfwnoZuM
 
 
 ## Source / Attribution
@@ -49,8 +49,11 @@ List of projects used in these experiments.
 * Interesting gateway idea: https://www.youtube.com/watch?v=W5hDKeQU8Y8
   * https://civitai.com/models/21813/edge-of-realism
 
-### Video Editor: DaVinci Resolve
+### NLE: DaVinci Resolve
 * https://www.blackmagicdesign.com/products/davinciresolve/
 
 ### DAW: Reaper
 * https://www.reaper.fm/
+
+#### Samples / Plugins
+* [Spitfire Audio: BBC Symphony Orchestra Discover](https://www.spitfireaudio.com/bbc-symphony-orchestra-discover)
