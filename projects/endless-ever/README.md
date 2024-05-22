@@ -1,4 +1,4 @@
-# Sergeant, Special Llamas
+# Endless Ever, Special Llamas
 Originally recorded in our local practice room on an old 8 track back in 1998. The recorder used standard audio cassettes - which is not a lot of bandwidth to squeeze in the big sound of the Special Llamas!
 Audio decomposed into stems by Spleeter and re-mixed in Reaper.
 
