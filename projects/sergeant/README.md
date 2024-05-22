@@ -24,10 +24,7 @@ cd ~/wsl-builds
 
 * AI Model: StyleGAN2
 * Dataset: Figure Drawings
-* [lsd generator code 1](../../lucid-sonic-dreams/sergeant.py)
-* [lsd generator code 2](../../lucid-sonic-dreams/sergeant-3.py)
-* [lsd generator code 3](../../lucid-sonic-dreams/sergeant-4.py)
-* [lsd generator code 4](../../lucid-sonic-dreams/sergeant-5.py)
+* [lsd generator code](../../lucid-sonic-dreams/sergeant/)
 
 ### Audio + Video Editing
 * DAW: Reaper

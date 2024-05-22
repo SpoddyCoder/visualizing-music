@@ -24,7 +24,7 @@ cd ~/wsl-builds
 
 * AI Model: StyleGAN2
 * Dataset: Cats
-* [lsd generator code](../../lucid-sonic-dreams/drumwah.py)
+* [lsd generator code](../../lucid-sonic-dreams/drumwah/)
 
 ### Audio + Video Editing
 * DAW: Reaper

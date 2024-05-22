@@ -24,8 +24,7 @@ cd ~/wsl-builds
 
 * AI Model: StyleGAN2
 * Dataset: Modern Art
-* [lsd generator code (slow bits)](../../lucid-sonic-dreams/buttercup-slow.py)
-* [lsd generator code (fast bits)](../../lucid-sonic-dreams/buttercup-fast.py)
+* [lsd generator code)](../../lucid-sonic-dreams/buttercup/)
 
 ### Audio + Video Editing
 * DAW: Reaper
