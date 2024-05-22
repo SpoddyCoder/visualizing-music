@@ -3,12 +3,14 @@ This project contains code and notes for AI music video generation. Using my old
 
 
 ## Video Projects
-* [Drumwah](projects/drumwah/)
-  * https://www.youtube.com/watch?v=z8TY0dtIzLw
-* [Buttercup](projects/buttercup/)
-  * https://www.youtube.com/watch?v=a4JHBTHhb0w
+* [Endless Ever](projects/endless-ever/)
+  * https://www.youtube.com/watch?v=E_SUavxxSs8
 * [Sergeant](projects/sergeant/)
   * https://www.youtube.com/watch?v=QjFBfwnoZuM
+* [Buttercup](projects/buttercup/)
+  * https://www.youtube.com/watch?v=a4JHBTHhb0w
+* [Drumwah](projects/drumwah/)
+  * https://www.youtube.com/watch?v=z8TY0dtIzLw
 
 
 ## Source / Attribution
